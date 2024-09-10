@@ -15,6 +15,10 @@ You can install this package via pip:
 ```bash
 pip install finres_ggpt2_matplotlib
 ```
+Install the libraries that you want
+```bash
+pip install finres_ggpt2_matplotlib
+```
 
 ## Usage
 ```python
